@@ -1,0 +1,100 @@
+.pharagraps{
+    display: flex;
+    width: 197px;
+    height: 40px;
+    font-size: x-large;
+    margin-left: 40px;
+}
+.green{
+    color: green;
+}
+.header{
+    display: flex;
+    margin-left: 800px;
+    margin-top: -15px;
+}
+.header li{
+    list-style-type: none;
+    margin-left: 60px;
+    top: 40px;
+    border: 1px;
+}
+.header ul{
+    display: flex;
+}
+.section{
+    display: flex;
+}
+.plant{
+   width: 501px;
+   height: 604px;
+}
+.heading{
+    margin-left: 200px;
+    margin-top: 100px;
+    font-family: "Helvetica Neue";
+    font-size: 44px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+.text{
+    width: 418px;
+    height: 111px;
+    font-family: "Helvetica Neue";
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+    margin-left: 700px;
+    margin-top: -400px;
+}
+.buttons{
+    display: flex;
+    margin-left: 700px;
+    margin-top: 30px;
+}
+.first,.second{
+    margin-left: 20px;
+    background-color: green;
+    border-radius: 10px;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border: none;
+}
+.circle{
+    width: 77px;
+    height: 74.612px;
+    margin-left: 1350px;
+    margin-top: -700px;
+    margin-bottom: 300px;
+
+}
+.icons{
+    margin-left: 1350px;
+    margin-top: -100px;
+}
+.icon{
+    width: 25px;
+    height: 23px;
+    display: block;
+    margin-bottom: 20px;
+}
+.line{
+    width: 1px;
+    height: 173px;
+    margin-left: 20px;
+}
+.line2{
+    width: 1500px;
+    height: 1px;
+}
+.star{
+    width: 98.042px;
+    height: 94.719px;
+    flex-shrink: 0;
+}
